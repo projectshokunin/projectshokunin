@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projectshokunin/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-my-post-title",
+        
+          title: "My Post Title",
+        
+        description: "Tracking out of a mental spin.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/projectshokunin/blog/2026/track-out/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
