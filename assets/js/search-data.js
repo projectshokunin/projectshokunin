@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projectshokunin/people/";
           },
-        },{id: "post-my-post-title",
+        },{id: "post-tracking-out-of-a-mental-spin",
         
-          title: "My Post Title",
+          title: "Tracking out of a mental spin.",
         
-        description: "Tracking out of a mental spin.",
+        description: "A lesson from skydiving applied.",
         section: "Posts",
         handler: () => {
           
