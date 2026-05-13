@@ -51,21 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projectshokunin/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projectshokunin/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projectshokunin/blog/";
-              },
-            },{id: "post-my-post-title",
+        },{id: "post-my-post-title",
         
           title: "My Post Title",
         
